@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to Dibo
+this free liberary helps you to quickly build your advanced and responsive websites without coding.
+just say your order with the prefered options , and it will create the website for you.
 
-You can use the [editor on GitHub](https://github.com/xxyyzz2050/Dibo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##contribute
+you are welcome to contribute in this great project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Main files
+the project essentially is based on class files (OOP) , each file takes care of some common tasks.
 
-### Markdown
+###ui
+this class responsible or the UI.
+you can use it with bootstrap (optional) and jQuery (optional) even you don't kmow anything about bootstrap and jQuery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###db
+this class is responsible of automate all database processes , all types of databases use the same functions with the same parameters , so you can switch from one type to another type with only one step.
 
-```markdown
-Syntax highlighted code block
+###Dom
+automate DomElements processes
 
-# Header 1
-## Header 2
-### Header 3
+###Graphics
+create and modify images automatecly , like a web-based photoshop
 
-- Bulleted
-- List
+###email
+send html emails with attachments without any complicated codes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xxyyzz2050/Dibo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+... and many other classes
